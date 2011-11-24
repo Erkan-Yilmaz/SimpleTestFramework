@@ -1,0 +1,3 @@
+
+The SimpleTestFramework is: (C) Copyright Marcus Povey 2011
+and is released under the GPL2 Licence (see LICENCE.txt)
