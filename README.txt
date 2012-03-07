@@ -20,7 +20,7 @@ Requirements:
 -------------
 
 This is a PHP command line application so you will require php5-cli and its
-various dependancies.
+various dependencies.
 
 On Debian based systems this is a simple matter of:
 
@@ -53,7 +53,7 @@ You can specify multiple tests to run...
 Writing your own tests:
 -----------------------
 
-Take a look at ExampleTest.test.php for an example test, but in a nutshell your
+Take a look at Example.test.php for an example test, but in a nutshell your
 test should extend and implement the Test class, e.g.
 
     class FooTest extends Test
